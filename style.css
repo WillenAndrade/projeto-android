@@ -1,0 +1,69 @@
+
+* {
+  margin: 0;
+}
+
+body {
+background-color: rgb(132, 225, 173);
+
+
+}
+
+header {
+  height: 150px;
+  background-image: linear-gradient(to top, rgba(46,139,87.0), rgba(132, 225, 173.0));
+}
+
+header p {
+  text-align: center;
+  padding-top: 15px;
+  color: white;
+  font-size: 18px;
+}
+
+h1 {
+  width: 800px;
+  height: 30px;
+  margin: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: Oswald, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+
+
+
+nav {
+  padding-left: 15px;
+  padding-top: 25px;
+}
+
+nav a {
+  padding-left: 20px;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  align-text: center;
+}
+
+main {
+  width: 70vw;
+  background-color: rgb(132, 225, 173);
+  margin: auto;
+  padding: 20px;
+  background: white;
+
+
+
+}
+
+main p {
+  text-indent: 25px;
+  margin: 15px;
+
+}
